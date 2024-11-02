@@ -1,5 +1,5 @@
 
-# CryptoTracker
+# CryptoTracker(Code available in master branch)
 
 CryptoTracker is an Android app that helps users track real-time prices and trends of the top 100 cryptocurrencies. Built with Jetpack Compose, it offers a clean, adaptive UI and uses CoinCap’s API to display detailed cryptocurrency data, including interactive price trend graphs.
 
